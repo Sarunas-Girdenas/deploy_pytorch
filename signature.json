@@ -1,0 +1,16 @@
+{
+    "inputs": [
+       {
+         "data_name": "input_0",
+         "data_shape": [1, 13]
+       }
+     ],
+     "input_type": "application/json",
+     "outputs": [
+       {
+        "data_name": "boston_prediction",
+        "data_shape": [1, 1]
+       }
+     ],
+     "output_type": "application/json"
+}
